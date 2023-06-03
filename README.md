@@ -21,3 +21,8 @@ npm run install
 QR Code Browser
 
 npm install --save qrcode
+
+
+Install nodemon
+
+npm install -g nodemon
